@@ -27,7 +27,7 @@ for(let i=0;i<count;i++)
     
     if(flag==1)
     {
-        alert("hey "+name+", let's see if your mad")
+        alert("hey "+name+", let's see if you're mad")
         break;
     }
 
